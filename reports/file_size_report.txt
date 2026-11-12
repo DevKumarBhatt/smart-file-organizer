@@ -1,0 +1,8 @@
+FILE SIZE REPORT
+===================================
+
+data.xlsx : 29 Bytes
+notes.txt : 33 Bytes
+notes_copy.txt : 33 Bytes
+photo.jpg : 29 Bytes
+resume.pdf : 30 Bytes

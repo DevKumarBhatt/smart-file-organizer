@@ -1,0 +1,4 @@
+DUPLICATE FILE REPORT
+===================================
+
+Duplicate: notes_copy.txt | Original: notes.txt

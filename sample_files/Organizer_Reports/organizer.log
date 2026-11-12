@@ -1,0 +1,6 @@
+2026-11-13 04:02:00,817 - INFO - Copied data.xlsx to Documents
+2026-11-13 04:02:00,835 - INFO - Copied notes.txt to Documents
+2026-11-13 04:02:00,843 - INFO - Duplicate: notes_copy.txt | Original: notes.txt
+2026-11-13 04:02:00,850 - INFO - Copied photo.jpg to Images
+2026-11-13 04:02:00,861 - INFO - Copied resume.pdf to Documents
+2026-11-13 04:02:00,878 - INFO - Completed: Total=5, Organized=4, Duplicates=1, Errors=0

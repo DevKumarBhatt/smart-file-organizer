@@ -1,0 +1,7 @@
+2026-11-13 03:32:18,343 - INFO - File organization started.
+2026-11-13 03:32:18,348 - INFO - Copied data.xlsx to Documents
+2026-11-13 03:32:18,352 - INFO - Copied notes.txt to Documents
+2026-11-13 03:32:18,353 - INFO - Duplicate found: notes_copy.txt | Original: notes.txt
+2026-11-13 03:32:18,356 - INFO - Copied photo.jpg to Images
+2026-11-13 03:32:18,360 - INFO - Copied resume.pdf to Documents
+2026-11-13 03:32:18,367 - INFO - Organization completed. Total: 5, Unique: 4, Duplicates: 1
